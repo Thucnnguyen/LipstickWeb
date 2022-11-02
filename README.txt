@@ -1,1 +1,4 @@
-This web for selling lipstick
+Project: Lipstick WebApp
+
+purpose: This website for selling lipstick
+
