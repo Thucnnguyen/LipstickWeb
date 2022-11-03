@@ -1,4 +1,3 @@
-Project: Lipstick WebApp
+Project: Lipstick WebApp 
 
-purpose: This website for selling lipstick
-
+Purpose: This site to sell lipstick
